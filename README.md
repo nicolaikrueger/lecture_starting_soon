@@ -2,8 +2,6 @@
 
 A clean, minimal "Starting Soon" page for university lectures, featuring a countdown timer and institutional branding. Perfect for screen sharing before online lectures, webinars, or virtual classroom sessions.
 
-![Preview Screenshot Placeholder](screenshot.png)
-
 ## Features
 
 - ⏰ Dynamic countdown timer
@@ -60,7 +58,3 @@ Contributions are welcome! Feel free to:
 ## License
 
 MIT License - see [LICENSE](LICENSE) for details.
-
----
-
-Created and maintained by YOUR-NAME ([@YOUR-USERNAME](https://github.com/YOUR-USERNAME))
