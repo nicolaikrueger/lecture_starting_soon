@@ -1,5 +1,7 @@
 # Lecture Starting Soon Page
 
+![Countdown Demo](/countdown_example.png)
+
 A clean, minimal "Starting Soon" page for university lectures, featuring a countdown timer and institutional branding. Perfect for screen sharing before online lectures, webinars, or virtual classroom sessions.
 
 ## Features
