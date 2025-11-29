@@ -1,6 +1,6 @@
 # Lecture Starting Soon Page
 
-![Countdown Demo](/countdown_example.png)
+![Countdown Demo](/demoscreen.png)
 
 A clean, minimal "Starting Soon" page for university lectures, featuring a countdown timer and institutional branding. Perfect for screen sharing before online lectures, webinars, or virtual classroom sessions.
 
@@ -25,37 +25,10 @@ A clean, minimal "Starting Soon" page for university lectures, featuring a count
 
 ## Quick Start
 
-1. Access the page through: `https://YOUR-USERNAME.github.io/lecture-countdown/`
-2. Enter your lecture title
-3. Set the start time
-4. Share your screen in your virtual classroom platform
+1. Download the files
+2. Start index.html in your browser
 
-## Local Usage
-
-1. Clone the repository
-```bash
-git clone https://github.com/YOUR-USERNAME/lecture-countdown.git
-```
-
-2. Open `index.html` in your browser
-
-That's it! No build process or dependencies required.
-
-## Customization
-
-Want to adapt it for your institution? The page is easily customizable:
-
-1. Replace the SVG logo in `index.html`
-2. Adjust colors in the CSS section
-3. Modify text content as needed
-
-## Contributing
-
-Contributions are welcome! Feel free to:
-
-- Report bugs
-- Suggest enhancements
-- Submit pull requests
+You can also create a github page to host the files.
 
 ## License
 
